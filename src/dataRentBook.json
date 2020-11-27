@@ -1,0 +1,7 @@
+[
+  {"username":"bom","id":1,"name":"doi song","dateRent":"2020/09/27","DATE_RENT":"2020-09-27T00:00:00.000Z","expiration":10,"dateExpiration":"2020/11/7","status":1},
+  {"username":"bom","id":1,"name":"doi song","dateRent":"2020/10/27","DATE_RENT":"2020-11-27T00:00:00.000Z","expiration":10,"dateExpiration":"2020/11/7","status":0},
+  {"username":"bom","id":3,"name":"the thao","dateRent":"2020/08/27","DATE_RENT":"2020-09-27T00:00:00.000Z","expiration":5,"dateExpiration":"2020/11/2","status":0},
+  {"username":"bom","id":3,"name":"the thao","dateRent":"2020/07/27","DATE_RENT":"2020-08-27T00:00:00.000Z","expiration":5,"dateExpiration":"2020/11/2","status":1},
+  {"username":"bom","id":3,"name":"the thao","dateRent":"2020/08/27","DATE_RENT":"2020-09-27T00:00:00.000Z","expiration":5,"dateExpiration":"2020/11/2","status":1}
+]
